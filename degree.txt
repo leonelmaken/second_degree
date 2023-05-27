@@ -1,0 +1,2 @@
+les valeurs entrees sont : 4.000000 4.000000 1.000000
+nous avons une solution :	  -0.500000
